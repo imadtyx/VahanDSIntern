@@ -8,3 +8,6 @@ The text from the pdf file was first extracted using the Optical Character Recog
 Since the assignment was done on a jupyter notebook, all of the library and data requirements were handled in the first section. (No extra requirements.txt files)
 
 Just continue pressing `Shift+Enter` from the first cell and anyone shall be good to go:)
+
+<td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1pMejlDluP92qBtE5XqFcYsubZ1VfXD4L?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" height = '23px' >
